@@ -1,2 +1,2 @@
 # djangoweb
-Django Web profect
+Django Web project
