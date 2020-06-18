@@ -15,7 +15,6 @@ class Dictionary:
       print(", ".join(res["shortdef"]))
 
 string = raw_input("Enter word :")
-# print(string)
 d = Dictionary(string)
 d.display()
 #https://dictionaryapi.com/products/json#sec-2.syns
